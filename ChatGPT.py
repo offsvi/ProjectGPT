@@ -35,4 +35,4 @@ login_button.pack()
 message_label.pack()
 
 # Iniciar loop principal do tkinter
-root.mainloop()
+root.mainloop(
