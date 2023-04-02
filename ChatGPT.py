@@ -31,7 +31,7 @@ username_label.pack()
 username_entry.pack()
 password_label.pack()
 password_entry.pack()
-login_button.pack()
+login_button.pack(
 message_label.pack()
 
 # Iniciar loop principal do tkinter
